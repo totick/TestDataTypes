@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDataTypes", "TestDataTypes\TestDataTypes.csproj", "{6E1EE5B2-9A66-4CB1-BB8E-1A75BE5E2094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E1EE5B2-9A66-4CB1-BB8E-1A75BE5E2094}.Debug|x86.ActiveCfg = Debug|x86
+		{6E1EE5B2-9A66-4CB1-BB8E-1A75BE5E2094}.Debug|x86.Build.0 = Debug|x86
+		{6E1EE5B2-9A66-4CB1-BB8E-1A75BE5E2094}.Release|x86.ActiveCfg = Release|x86
+		{6E1EE5B2-9A66-4CB1-BB8E-1A75BE5E2094}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
